@@ -10,6 +10,8 @@ ocan with kaggle data
 ### 3.OCAN_model
 #### 使用one-class gan 生成互补数据，以训练分类器
 
+### 4.Result
+阈值为0.5(最后一层激活函数用的softmax)：
               precision    recall  f1-score   support
 
      benign     0.9003    0.9472    0.9232     10000
@@ -19,7 +21,7 @@ avg / total     0.8629    0.8715    0.8648     12271
 
 acc:0.8714856164941732
 
-#### Threshold is  0.46277308
+#### 根据roc_curve, 取True positive rate为0.6时的阈值，Threshold is  0.46277308
 #### OCAN model finds 5 vandals out of first 8 vandals.
 #### OCAN model finds 8 vandals out of first 12 vandals.
 #### OCAN model finds 14 vandals out of first 20 vandals.
