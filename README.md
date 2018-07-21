@@ -19,10 +19,10 @@ avg / total     0.8629    0.8715    0.8648     12271
 
 acc:0.8714856164941732
 
-### Threshold is  0.46277308
-### OCAN model finds 5 vandals out of first 8 vandals.
-### OCAN model finds 8 vandals out of first 12 vandals.
-### OCAN model finds 14 vandals out of first 20 vandals.
-### OCAN model finds 60 vandals out of first 100 vandals.
-### OCAN model finds 302 vandals out of first 500 vandals.
-### OCAN model finds 1363 vandals out of first 2271 vandals.
+#### Threshold is  0.46277308
+#### OCAN model finds 5 vandals out of first 8 vandals.
+#### OCAN model finds 8 vandals out of first 12 vandals.
+#### OCAN model finds 14 vandals out of first 20 vandals.
+#### OCAN model finds 60 vandals out of first 100 vandals.
+#### OCAN model finds 302 vandals out of first 500 vandals.
+#### OCAN model finds 1363 vandals out of first 2271 vandals.
